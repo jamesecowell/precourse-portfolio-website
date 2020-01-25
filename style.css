@@ -11,9 +11,12 @@
 
 }
 
+* {
+    font-family: 'Sweden Sans', sans-serif;
+}
+
 .header {
     text-align: center;
-    font-family: 'Sweden Sans', sans-serif;
     font-weight: 200;
 }
 
@@ -22,10 +25,7 @@ h1 {
     color: #003153; /*prussian blue*/
 }
 
-h2 {
-    color: #E34239 /*minium*/
-}
-
+h2,
 h3 {
-    color: #E34239; /*minium*/
+    color: #E34239 /*minium*/
 }
