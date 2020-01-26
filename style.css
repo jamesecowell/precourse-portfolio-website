@@ -62,8 +62,15 @@
 .hamburger {
     width: 25px;
     height: 3px;
-    background-color: black;
+    background-color: #003153; /*prussian blue*/
     margin: 6px 0;
+}
+
+.me_pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
 }
 
 h1 {
