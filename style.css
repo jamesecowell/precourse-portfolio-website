@@ -40,7 +40,7 @@
 
 /* change nav link colour on mouse-over */
 .sidenav a:hover {
-    color: burlywood;
+    color: #E34239; /*minium*/
 }
 
 /* position and style close button */
