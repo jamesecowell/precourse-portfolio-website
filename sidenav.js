@@ -1,6 +1,6 @@
 // Animated close button
 function openNav(x) {
-    x.classList.toggle("change")
+    x.classList.toggle("change");
 }
 
 // Set width of sidenav to 250px
