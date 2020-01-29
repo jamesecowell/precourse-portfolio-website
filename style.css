@@ -122,3 +122,10 @@ p {
     color: #003153; /*prussian blue*/
     text-align: center;
 }
+
+footer {
+    display: flex;
+    align-items: flex-end;
+    color: #003153; /*prussian blue*/
+    opacity: 0.5;
+}
